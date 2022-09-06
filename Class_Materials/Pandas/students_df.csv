@@ -1,8 +1,8 @@
-name,city,age,py-score,js-score,total
-Xavier,Mexico City,41,108.0,71.0,50
-Ann,Toronto,28,99.0,95.0,50
-Jana,Prague,33,101.0,88.0,50
-Yi,Shanghai,34,100.0,79.0,50
-Robin,Manchester,38,88.0,91.0,50
-Amal,Cairo,31,81.0,91.0,50
-Nori,Osaka,37,104.0,80.0,50
+,name,city,age,py-score,js-score,js-score-updated,total
+10,Xavier,Mexico City,41,88.0,71.0,76.0,80.71428571428572
+11,Ann,Toronto,28,79.0,95.0,100.0,85.85714285714286
+12,Jana,Prague,33,81.0,88.0,93.0,84.0
+13,Yi,Shanghai,34,80.0,79.0,84.0,79.57142857142858
+14,Robin,Manchester,38,68.0,91.0,96.0,77.85714285714286
+15,Amal,Cairo,31,61.0,91.0,96.0,73.85714285714286
+16,Nori,Osaka,37,84.0,80.0,85.0,82.28571428571429
